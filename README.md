@@ -6,7 +6,6 @@
 ## Funcionalidades
 
 - **Automatização Completa**: Marca automaticamente as lições como concluídas e avança para a próxima lição sem necessidade de intervenção manual.
-- **Personalização**: Inclui uma marca d'água personalizada "Alura destroyer by Biell" para indicar que o script está ativo.
 - **Execução Simples**: Pode ser executado diretamente no navegador usando Tampermonkey ou outras extensões de injeção de código.
 
 ## Como Usar
@@ -33,6 +32,3 @@
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias e novas funcionalidades.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
