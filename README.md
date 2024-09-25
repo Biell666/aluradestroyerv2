@@ -2,7 +2,6 @@
 
 **Alura Destroyer V2** é um script de usuário desenvolvido para automatizar a conclusão de lições na plataforma de cursos online Alura. Este script foi criado para facilitar a navegação e o progresso nos cursos, permitindo que os usuários avancem automaticamente para a próxima lição após marcar a atual como concluída.
 
-!Badge
 
 ## Funcionalidades
 
