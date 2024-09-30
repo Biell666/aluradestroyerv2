@@ -28,6 +28,17 @@
 2. Edite o favorito e cole o código do script na URL do favorito.
 3. Salve e clique no favorito sempre que estiver na página da Alura.
 
+# Alura Destroyer Multi-Tab
+
+## Como usar?
+O metódo de uso é da mesma forma que o primeiro.
+
+##Utilidade
+Este script em sua versão 1.0 busca realizar as atividades em multiplas abas (com um limitador) para fácil realização das atividades.
+
+
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias e novas funcionalidades.
